@@ -6,13 +6,15 @@
 
 
 ##
-####What is Semantic HTML? Give examples
+
+#### What is Semantic HTML? Give examples
 
 
 </br> </br> </br></br> </br> </br>
 
 ##
-####Describe the difference between a cookie, sessionStorage and localStorage.
+
+#### Describe the difference between a cookie, sessionStorage and localStorage.
 
 </br> </br> </br></br> </br> </br>
 
@@ -25,14 +27,14 @@
 
 ##
 
-####display vs visibility
+#### display vs visibility
 
 What are the differences between visibility hidden and display none
 
 </br> </br> </br></br> </br> </br>
 
 ##
-###What is the fastest way to select elements by using css selectors?
+### What is the fastest way to select elements by using css selectors?
 
 ##
 ###
