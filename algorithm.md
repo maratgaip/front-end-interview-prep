@@ -19,9 +19,7 @@
 
 11) Find sum of all array elements = [65, 44, 12, 4];
 
-12) Sum all array elements if it's number
-
-solution: loop, higher order funcs (forEach, reduce)
+12) Sum all array elements if it's number [1,2,'sdfsdf',3,'ssdf,4] // 10  use loop, hoc(forEach, reduce)
 
 * 1.1) Sum all array elements if it's number or convertable to number
 
