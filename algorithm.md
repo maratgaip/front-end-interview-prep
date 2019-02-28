@@ -21,13 +21,15 @@
 
 12) Sum all array elements if it's number [1,2,'sdfsdf',3,'ssdf,4] // 10  use loop, hoc(forEach, reduce)
 
-* 1.1) Sum all array elements if it's number or convertable to number
+* 1.1) Sum all array elements if it's number or boolean(convert to number)
 
 * 1.2) Sum all array elements if it's number or string and convertable to number 
 
 13) Reverse a string with different ways "hello me"
 
-13) Reverse words in a array "ym eman si taraM" => "my name is Marat"
+Filter all chars which are not equal to "a" from an array. ['a','b','A','c'] => ['b','c']
+
+13) Reverse words in a string "ym eman si taraM" => "my name is Marat"
 
 14) Get only ["Orange", "Lemon"] from ["Banana", "Orange", "Lemon", "Apple", "Mango"]
 
@@ -35,10 +37,11 @@
 
 15) Sort given array  [20, 18, 10, 5]; 
 
-16) Convert this array ["Banana", "Orange", "Apple", "Mango"] to ["Banana", "Melon", "Apple", "Mango"]
+16) Replace "Orange" to "Melon" from array ["Banana", "Orange", "Apple", "Mango"] to ["Banana", "Melon", "Apple", "Mango"]
+
+16) Replace all "Orange" to "Melon" from array ["Bana", "Orange", "Apple","Orange"] to ["Bana", "Melon", "Apple", "Orange"]
 
 16) Add "Melon" after ""Orange" to this array ["Banana", "Orange", "Apple", "Mango"]
 
 17) Find only unique numbers inside array [1,2,3,1,3] => only 2 is unique
 
-18) Find only unique numbers inside array [1,2,3,1,3] => []
