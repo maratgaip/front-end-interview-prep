@@ -45,3 +45,11 @@
 
 21) Find only unique numbers inside array [1,2,3,1,3] => only 2 is unique
 
+22) Call a function after 3 seconds.
+
+23) [1,2,3,4] remove element using pop after 2 seconds till no data in array // Use setTimeout and setInterval 
+
+24) Create a timer with minute and second using setInterval.
+    a) add feature to start/stop (html)
+    
+22) Find all consequences of an array element.
