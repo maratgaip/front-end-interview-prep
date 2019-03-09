@@ -92,3 +92,9 @@ Explain how do you deal with browser-specific style incompatibility?
 
 * There are multiple ways to operate about this. According, the simple way to proceed would be to utilize a conditional statement in the head tag of your HTML. In this way, you can recognize the browser and load an external stylesheet.
 
+* Can you explain what server- versus client-side rendering is? What are the pros and cons of each?
+* What is the difference between a GET and a POST? Which is more secure?
+    * GET is passed in the URL and is easily modified. POST can also be modified but is more difficult for the casual user.
+    * GET URLs can be passed around by a malicious party
+* What is AJAX? What are some ways to perform async operations in Javascript?
+
