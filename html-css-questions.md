@@ -40,3 +40,8 @@ What are the differences between visibility hidden and display none
 ###
 
 </br> </br> </br></br> </br> </br>
+
+### * CSS: box model, specificity, "position", "display"
+
+
+### * HTML: DOM structure, semantic markup, doctype
